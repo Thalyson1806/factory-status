@@ -4,7 +4,6 @@ Real-time industrial machine monitoring system built with React. Track machine s
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-38B2AC)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 🎯 Features
 
